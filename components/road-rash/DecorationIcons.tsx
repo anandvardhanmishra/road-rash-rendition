@@ -1,6 +1,6 @@
-'use client';
+"use client";
 
-import { Palmtree, Sunset, Waves } from 'lucide-react';
+import { Palmtree, Sunset, Waves } from "lucide-react";
 
 const DecorationIcons = () => (
   <>
